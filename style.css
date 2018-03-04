@@ -1,0 +1,21 @@
+body{
+    margin:0px;
+}
+#box{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    border-radius: 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+}
+#load{
+    height: 100vh;
+    width: 100%;
+}
+#intro{
+    height: 100vh;
+    width: 100%;
+}
